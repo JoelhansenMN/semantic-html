@@ -10,3 +10,6 @@
 ![the follow link is a screenshot of the web application with functional HTML and CSS files](./horiseon.png)
 
 ## link to web application
+
+[click here](https://joelhansenmn.github.io/semantic-html/)
+[click here](https://github.com/JoelhansenMN/semantic-html)
